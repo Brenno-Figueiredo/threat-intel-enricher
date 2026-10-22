@@ -1,0 +1,8 @@
+# Indicadores de exemplo. Aceita comentários e o formato "defanged" usado em relatórios.
+203.0.113.50
+185[.]220[.]101[.]4
+198.51.100.7        # password spraying
+8.8.8.8
+192.168.0.10        # IP privado: nunca é enviado a serviços externos
+evil[.]example
+44d88612fea8a8f36de82e1278abb02f   # EICAR (arquivo de teste de antivírus)
